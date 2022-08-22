@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ilariapalmas
 - 👀 I’m interested in Web Development and UI/UX design. 
 - 🌱 I’m currently learning ReactJS and Python. 
-- 💞️ I’m looking to collaborate on any web design project. 
+- 💞️ I’m looking to collaborate on an web design project. 
 - 📫 How to reach me: via email at ilariapalmas30@gmail.com
 
 <!---
